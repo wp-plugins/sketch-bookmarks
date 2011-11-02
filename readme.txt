@@ -40,21 +40,11 @@ This plugin will duplicate the social icons that you see at the bottom of every 
 
 * Options: We provide the options to choose which buttons to display. You can customize this plugin to represent the most important bookmarking sites or to accommodate smaller post widths.
 
-* W3C Compliant: Many SEO experts believe that compliance is one of the many factors that Google, Yahoo and others look at when weighing the importance of websites.
-
 <h4>A Product of Site Sketch 101</h4>
 
 
 
 Sketch Bookmarks was created by Nicholas Cardot from <a href="http://www.sitesketch101.com">Site Sketch 101</a>. If you're looking for the tips, advice, and knowledge necessary to make your blog into something amazing and influental then check out <a href="http://www.sitesketch101.com">Site Sketch 101</a>.
-
-
-
-<h4>Special Thanks</h4>
-
-
-
-I also want to send out a special thanks and give some recognition to Phillip Copley (http://twitter.com/Phillip_Copley/).  He helped me develop the administrator options.  Without him this plugin would not be a reality in the form that it is.
 
 
 
