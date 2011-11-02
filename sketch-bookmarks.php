@@ -70,9 +70,9 @@ function add_me($content) {
 		}
 		
 		if (get_option('twitter') == "show") {
-			$content .= '<style>#___plusone_0,#___plusone_1,#___plusone_2,#___plusone_3,#___plusone_4,#___plusone_5,#___plusone_6,#___plusone_7,#___plusone_8,#___plusone_9 {opacity:0;}</style><!-- Place this tag where you want the +1 button to render -->
+			$content .= '<style>#___plusone_0,#___plusone_1,#___plusone_2,#___plusone_3,#___plusone_4,#___plusone_5,#___plusone_6,#___plusone_7,#___plusone_8,#___plusone_9,#___plusone_10  {opacity:0;}</style><!-- Place this tag where you want the +1 button to render -->
 <div style="background:url(' . $sketch_images_folder . 'googleplus.png);height:48px;width:48px;overflow:hidden;padding:0;">
-	<div style="margin-bottom:-10px;padding:0;">
+	<div style="margin:7px 0 -11px 0;padding:0;">
 		<g:plusone size="tall" annotation="none"></g:plusone>
 	</div>
 	<g:plusone size="tall" annotation="none"></g:plusone>
