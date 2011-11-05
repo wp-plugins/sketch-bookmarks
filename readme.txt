@@ -10,7 +10,7 @@ Requires at least: 2.1.0
 
 Tested up to: 3.2.1
 
-Stable tag: 1.2.01
+Stable tag: 1.2.02
 
 This plugin contains amazing looking, sketched icons for only the top social bookmarking sites. 
 
@@ -72,6 +72,11 @@ Sketch Bookmarks was created by Nicholas Cardot from <a href="http://www.siteske
 
 == Changelog ==
 
+= 1.2.02 =
+
+* Somehow I failed to actually upload the Google+ image for the button so it probably just displays as blank for most people. This should fix that right up. 
+
+
 = 1.2.01 =
 
 * This update fixes the display of the Google+ button for Internet Explorer and out-of-date browsers. 
@@ -112,6 +117,11 @@ Sketch Bookmarks was created by Nicholas Cardot from <a href="http://www.siteske
 
 
 == Upgrade Notice ==
+
+= 1.2.02 =
+
+* Somehow I failed to actually upload the Google+ image for the button so it probably just displays as blank for most people. This should fix that right up. 
+
 
 = 1.2.01 = 
 

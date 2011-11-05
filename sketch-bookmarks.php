@@ -4,7 +4,7 @@
 
 Plugin Name: Sketch Bookmarks
 
-Version: 1.2.01
+Version: 1.2.02
 
 Plugin URI: http://www.sitesketch101.com
 
