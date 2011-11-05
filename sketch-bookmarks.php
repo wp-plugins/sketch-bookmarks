@@ -4,7 +4,7 @@
 
 Plugin Name: Sketch Bookmarks
 
-Version: 1.2
+Version: 1.2.01
 
 Plugin URI: http://www.sitesketch101.com
 
@@ -70,7 +70,7 @@ function add_me($content) {
 		}
 		
 		if (get_option('twitter') == "show") {
-			$content .= '<style>.gplus #___plusone_0, .gplus #___plusone_1,.gplus #___plusone_2, .gplus #___plusone_3, .gplus #___plusone_4, .gplus #___plusone_5, .gplus #___plusone_6, .gplus #___plusone_7, .gplus #___plusone_8, .gplus #___plusone_9, .gplus #___plusone_10 {opacity:0;}</style><!-- Place this tag where you want the +1 button to render -->
+			$content .= '<style>.gplus #___plusone_0, .gplus #___plusone_1,.gplus #___plusone_2, .gplus #___plusone_3, .gplus #___plusone_4, .gplus #___plusone_5, .gplus #___plusone_6, .gplus #___plusone_7, .gplus #___plusone_8, .gplus #___plusone_9, .gplus #___plusone_10 {-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter: alpha(opacity=0);-moz-opacity:0.0;-khtml-opacity: 0.0;opacity: 0;}</style><!-- Place this tag where you want the +1 button to render -->
 <div class="gplus" style="background:url(' . $sketch_images_folder . 'googleplus.png);height:48px;width:48px;overflow:hidden;padding:0;">
 	<div style="margin:7px 0 -11px 0;padding:0;">
 		<g:plusone size="tall" annotation="none"></g:plusone>
